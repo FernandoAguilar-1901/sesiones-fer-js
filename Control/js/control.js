@@ -260,15 +260,6 @@ console.log(verificacion);
  * 
  */
 
-/** Ejercicio 3
- * 
- * Desarrolla un programa que evalue si un numero es primo
- * 
- * Debe recibir como parametro un numero aleatorio
- * 
- * Consideraciones: utilizar la estructura if-else
- */
-
 /** Ejercicio 4
  * 
  * Desarrolla un programa que evalue si un numero es divisible
