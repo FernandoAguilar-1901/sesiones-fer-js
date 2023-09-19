@@ -279,7 +279,6 @@ console.log(verificacion);
  * Si se cumple, imprimir verdadero
  * Si no, imprimir falso
  * 
- * Colocar calificaciones de manera que vayan del 0 al 10
  * 
  * Consideracion - Utilizar la estructura if-else
  * Casos de prueba: 56, 7, 8, 0, 224, 73
@@ -349,6 +348,7 @@ console.log(verificacion);
  * 4. Pago de servicios
  * 
  * Segun sea la opcion indicada, imprimir en pantalla la accion a realizar
+ * Utilizar if/else
  */
 
 /** Ejercicio 9
@@ -363,6 +363,8 @@ console.log(verificacion);
  * 3. A yenes japoneses
  * 4. A libra esterlina
  * 5. A franco suizo
+ * 
+ * Consideracion: estructura switch
  * 
  */
 
