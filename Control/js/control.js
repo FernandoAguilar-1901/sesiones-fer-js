@@ -262,6 +262,15 @@ console.log(verificacion);
 
 /** Ejercicio 3
  * 
+ * Desarrolla un programa que evalue si un numero es primo
+ * 
+ * Debe recibir como parametro un numero aleatorio
+ * 
+ * Consideraciones: utilizar la estructura if-else
+ */
+
+/** Ejercicio 4
+ * 
  * Desarrolla un programa que evalue si un numero es divisible
  * entre 7 y 8
  * 
@@ -276,7 +285,7 @@ console.log(verificacion);
  * Casos de prueba: 56, 7, 8, 0, 224, 73
  */
 
-/** Ejercicio 4
+/** Ejercicio 5
  * 
  * Desarrolla un programa que evalue si un numero es divisible
  * entre 4 o 9
@@ -289,7 +298,7 @@ console.log(verificacion);
  * Consideracion - Utilizar la estructura if-else
  */
 
-/** Ejercicio 5
+/** Ejercicio 6
  * 
  * Crear un programa que funcione como una calculadora simple
  * que realice las operaciones aritmeticas basicas
@@ -310,7 +319,7 @@ console.log(verificacion);
  * Consideraciones: utilizar la estructura switch
  */
 
-/** Ejercicio 6
+/** Ejercicio 7
  * 
  * Realizar un programa que reciba como parametro una categoria de peliculas
  * 
@@ -328,7 +337,7 @@ console.log(verificacion);
  */
 
 
-/** Ejercicio 7
+/** Ejercicio 8
  * 
  * Crear una interfaz de un cajero ATM
  * 
@@ -342,7 +351,7 @@ console.log(verificacion);
  * Segun sea la opcion indicada, imprimir en pantalla la accion a realizar
  */
 
-/** Ejercicio 8
+/** Ejercicio 9
  * 
  * Escribir en codigo un programa conversor de divisas
  * 
@@ -357,7 +366,7 @@ console.log(verificacion);
  * 
  */
 
-/** Ejercicio 9
+/** Ejercicio 10
  * 
  * Realizar un programa que calcule un descuento del 10% a un producto si se ingresa el codigo
  * de descuento correcto
